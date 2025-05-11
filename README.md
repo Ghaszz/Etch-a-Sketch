@@ -13,7 +13,7 @@ Este é um projeto simples de uma grade interativa feito com **HTML, CSS e JavaS
 1. Clone o repositório ou baixe os arquivos.
 2. Abra o arquivo `index.html` no navegador.
 3. Digite a dimensão da grade desejada.
-4. Passe o mouse sobre os quadrados para desenhar.
+4. Clique com o mouse nosos quadrados para desenhar, pixel por pixel.
 5. Clique no botão **Resetar** para começar novamente.
 
 ## 🛠️ Tecnologias usadas
